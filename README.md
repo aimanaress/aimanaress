@@ -1,9 +1,11 @@
 # 💫 About Me:
-👋 Hi there! I'm a recent Information Technology Graduate with a passion for Front End Development.<br><br>
+👋 Hello there! I'm a recent Information Technology graduate with a passion for Front End Development. 👨‍💻<br><br>
 
-🌱 Currently, I'm dedicated to honing my coding skills and expanding my knowledge base through various Udemy courses, where I've been actively engaged for the past 6 months.<br><br>
+🌟 Experience: I bring with me 6 years of expertise as a graphic designer, blending creativity with technical skills. Now, I'm excited to transition into the dynamic world of web development.<br><br>
 
-💼 I'm eagerly seeking opportunities to contribute and grow as a Front End Developer.
+📚 Current Focus: Over the past 6 months, I've been dedicated to honing my coding skills through Udemy courses. I believe in continuous learning and improvement to stay ahead in the fast-paced tech industry.<br><br>
+
+💼 Seeking Opportunities: I'm actively seeking opportunities to apply my design background and newly acquired development skills in a Front End Developer role. Let's build something awesome together! 🚀
 
 
 ## 🌐 Socials:
